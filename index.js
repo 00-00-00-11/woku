@@ -567,6 +567,6 @@ const oyun = [
     const random = Math.floor(Math.random()*(oyun.length-0+1)+0);
     message.channel.send(oyun[random])
 }
-
+//https://discord.gg/JfWVHr7
 });
-discord.login("MzY2NjI4Mjk4NjEwMDQ5MDM0.Dk2gIA.k6uHDZq6ieZsPtVrU1ugnPlhaZU")
+discord.login("")
